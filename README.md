@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-My name is Patrick and I'm a full stack web developer and recent Lambda School alumni.
+My name is Patrick and I'm a full stack web developer and recent Lambda School alumni from Portland, OR. I'm always interested in learning something new, or contributing to a fun project.
 
-Some technologies I like to use are listed below, however I'm always interested in learning something new.
+Some technologies I like to use include: 
 
   - React 
   - Node 
