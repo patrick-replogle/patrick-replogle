@@ -8,8 +8,7 @@ Some technologies I like to use include:
   - Python 
   - SQL 
   - HTML 
-  - CSS 
-  - Redux 
+  - CSS  
   - Express 
   - Apollo 
   - GraphQL 
