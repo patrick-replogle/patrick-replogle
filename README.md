@@ -2,11 +2,21 @@
 
 My name is Patrick and I'm a full stack web developer and recent Lambda School alumni.
 
-Some technologies I like to use include:
+Some technologies I like to use are listed below, however I'm always interested in learning something new.
 
-React | Node | Javascript | Python | SQL | HTML | CSS | Redux | Express | Apollo | GraphQL 
+  - React 
+  - Node 
+  - Javascript 
+  - Python 
+  - SQL 
+  - HTML 
+  - CSS 
+  - Redux 
+  - Express 
+  - Apollo 
+  - GraphQL 
 
-Reach out if you want to get in touch! I'm always looking to contribute to an exciting project or learn something new. 
+
 
 
 
