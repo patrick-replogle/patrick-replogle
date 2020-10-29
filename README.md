@@ -12,6 +12,10 @@ Some technologies I like to use include:
   - Express 
   - Apollo 
   - GraphQL 
+  
+Get in contact:
+ - https://www.linkedin.com/in/patrick-replogle/
+ - http://patrick-replogle.com/
 
 
 
