@@ -1,6 +1,4 @@
-Hi there 👋
-
-My name is Patrick and I'm a full stack web developer and recent Lambda School alumni from Portland, OR. I'm always eager to learn a new technology, or contribute to an interesting project.
+👋 My name is Patrick and I'm a full stack web developer and recent Lambda School alumni from Portland, OR. I'm always eager to learn a new technology, or contribute to an interesting project.
 
 ⚡ Some technologies I use: 
 
