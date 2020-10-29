@@ -2,10 +2,10 @@ My name is Patrick and I'm a full stack web developer and recent Lambda School a
 
 Some technologies I like to use include: 
 
-  - React 
-  - Node 
+  - React  
   - Javascript 
-  - Python 
+  - Node
+  - Python
   - SQL 
   - HTML 
   - CSS  
@@ -14,8 +14,8 @@ Some technologies I like to use include:
   - GraphQL 
   
 Get in contact:
- - https://www.linkedin.com/in/patrick-replogle/
- - http://patrick-replogle.com/
+ - linkedin.com/in/patrick-replogle
+ - patrick-replogle.com
 
 
 
