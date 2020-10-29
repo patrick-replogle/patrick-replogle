@@ -1,6 +1,6 @@
 My name is Patrick and I'm a full stack web developer and recent Lambda School alumni from Portland, OR. I'm always eager to learn a new technology, or contribute to an interesting project.
 
-Some technologies I like to use include: 
+⚡ Some technologies I like to use include: 
 
   - React  
   - Javascript 
@@ -13,9 +13,9 @@ Some technologies I like to use include:
   - Apollo 
   - GraphQL 
   
-Get in contact:
- - linkedin.com/in/patrick-replogle
- - patrick-replogle.com
+📫 How to reach me:
+ - https://www.linkedin.com/in/patrick-replogle/
+ - https://patrick-replogle.com/
 
 
 
