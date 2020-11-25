@@ -13,6 +13,12 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
   - Apollo 
   - GraphQL 
   
+ 🌱 I’m currently learning:
+ 
+  - Typescript
+  - Java
+ 
+  
 📫 How to reach me:
  - https://www.linkedin.com/in/patrick-replogle/
  - https://patrick-replogle.com/
