@@ -1,5 +1,7 @@
 Full stack web developer and recent Lambda School alumni from Portland, OR. I'm always eager to learn a new technology, or contribute to an interesting project. 
 
+[![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/patrick-replogle/github-readme-stats)
+
 ⚡ Some technologies I use: 
 
   - React  
@@ -23,11 +25,6 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
  - https://www.linkedin.com/in/patrick-replogle/
  - https://patrick-replogle.com/
  - patrickr1138@gmail.com
-
-
-
-
-
 
 <!--
 **patrick-replogle/patrick-replogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
