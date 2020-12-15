@@ -24,7 +24,7 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
  - https://patrick-replogle.com/
  - patrickr1138@gmail.com
  
-[![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrick-replogle)](https://github.com/patrick-replogle/github-readme-stats&show_icons=true&theme=radical)
+![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=patrick-replogle&show_icons=true&theme=radical)
 
 <!--
 **patrick-replogle/patrick-replogle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
