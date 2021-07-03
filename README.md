@@ -17,6 +17,7 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
  
   - Typescript
   - Java
+  - Vue
  
   
 📫 How to reach me:
