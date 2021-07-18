@@ -15,7 +15,7 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
   - Java
   - Spring Bott
   - Vue
-  - Nuext
+  - Nuxt
   
  🌱 I’m currently learning:
  
