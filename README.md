@@ -13,7 +13,7 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
   - Apollo 
   - GraphQL 
   - Java
-  - Spring Bott
+  - Spring Boot
   - Vue
   - Nuxt
   
