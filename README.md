@@ -12,12 +12,14 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
   - Express 
   - Apollo 
   - GraphQL 
+  - Java
+  - Spring Bott
+  - Vue
+  - Nuext
   
  🌱 I’m currently learning:
  
   - Typescript
-  - Java
-  - Vue
  
   
 📫 How to reach me:
