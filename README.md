@@ -5,7 +5,6 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
   - React  
   - Javascript 
   - Node
-  - Python
   - SQL 
   - HTML 
   - CSS  
@@ -16,6 +15,8 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
   - Spring Boot
   - Vue
   - Nuxt
+  - Python
+  - Less / Sass
   
  🌱 I’m currently learning:
  
