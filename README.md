@@ -21,7 +21,7 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
  🌱 I’m currently learning:
  
   - Typescript
- 
+  - C 
   
 📫 How to reach me:
  - https://www.linkedin.com/in/patrick-replogle/
