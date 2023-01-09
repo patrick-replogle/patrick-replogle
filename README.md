@@ -4,6 +4,7 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
 
   - React  
   - Javascript 
+  - Typescript
   - Node
   - SQL 
   - HTML 
@@ -20,8 +21,7 @@ Full stack web developer and recent Lambda School alumni from Portland, OR. I'm 
   
  🌱 I’m currently learning:
  
-  - Typescript
-  - C 
+  - C++
   
 📫 How to reach me:
  - https://www.linkedin.com/in/patrick-replogle/
