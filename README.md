@@ -1,4 +1,4 @@
-Full stack web developer and recent Lambda School alumni from Portland, OR. I'm always eager to learn a new technology, or contribute to an interesting project. 
+Full stack web developer and Bloomtech Institute of Technology alumni from Portland, OR. I'm always eager to learn a new technology, or contribute to an interesting project. 
 
 ⚡ Some technologies I use: 
 
