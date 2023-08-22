@@ -18,6 +18,7 @@ Full stack web developer and Bloomtech Institute of Technology alumni from Portl
   - Nuxt
   - Python
   - Less / Sass
+  - Redis
   
  🌱 I’m currently learning:
  
