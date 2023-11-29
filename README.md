@@ -21,6 +21,7 @@ Full stack web developer and Bloomtech Institute of Technology alumni from Portl
   - Redis
   - Docker
   - AWS
+  - Auth0
   
  🌱 I’m currently learning:
  
